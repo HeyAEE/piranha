@@ -1,0 +1,2 @@
+# piranha
+Simple Amazon scraper
